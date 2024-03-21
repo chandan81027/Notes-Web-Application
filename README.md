@@ -9,7 +9,6 @@ A simple note-taking web application built with React.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
